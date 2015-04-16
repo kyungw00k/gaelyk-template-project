@@ -1,0 +1,1 @@
+get "/", forward: "/index.html"
